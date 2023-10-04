@@ -55,6 +55,23 @@
                         "https://nl.wikipedia.org/MyPoi",
                         "https://example.org/mypoi"
                     ]
+                },
+                {
+                    "id": "uniqueID",
+                    "lat": "50.8789629",
+                    "lon": "4.7013242",
+                    "type": "bar",
+                    "name": "Sol y Sombra",
+                    "images": [
+                        "https://github.com/antsuarz/appsligeras/blob/master/ptosinteres/img/soli.jpg?raw=true",
+                        "https://github.com/antsuarz/appsligeras/blob/master/ptosinteres/img/solibar.jpg?raw=true"
+                    ],
+                    "description": "Buen ambiente, centro social en plaza de España",
+                    "more": "La verdad qeu es peor que chicote",
+                    "urls": [
+                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
+                        "https://example.org/mypoi"
+                    ]
                 }
             ]
         }
